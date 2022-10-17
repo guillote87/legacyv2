@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.title{
+    text-align: center;
+    padding:20px;
+    font-size: small;    
+}
+.card-client{
+    width: 50%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+.card-client img{
+    max-width: 90%;
+    padding: 10px;
+ 
+}
+.card2{
+background-color:#a9b4be
+}
+
+
+@media screen and (min-width: 768px){
+ 
+    .card-client{
+        width: 20%;
+        height: 250px;
+        display: flex;
+        align-items: center;
+    }
+    .card-client img{
+        max-width: 90%;
+        padding: 10px;
+     
+    }
+}
