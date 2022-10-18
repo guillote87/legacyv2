@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/guillote87/legacyv2.git/static/css/main.9063f9c4.css",
-    "main.js": "/guillote87/legacyv2.git/static/js/main.a301f4b5.js",
-    "static/media/plataformas.png": "/guillote87/legacyv2.git/static/media/plataformas.f22c5f2757b03868283f.png",
-    "static/media/logoblanco.png": "/guillote87/legacyv2.git/static/media/logoblanco.f397c937f5993898b3ad.png",
-    "static/media/remote.png": "/guillote87/legacyv2.git/static/media/remote.95750d43c6edaddf592d.png",
-    "static/media/Evolution.png": "/guillote87/legacyv2.git/static/media/Evolution.dbeb96ab823d26a0ba73.png",
-    "static/media/fiori.png": "/guillote87/legacyv2.git/static/media/fiori.f042e3b07157923d4669.png",
-    "static/media/navent.jpg": "/guillote87/legacyv2.git/static/media/navent.73f62548bade043193b4.jpg",
-    "static/media/demotores.jpg": "/guillote87/legacyv2.git/static/media/demotores.87fe67feb3d5456b5245.jpg",
-    "index.html": "/guillote87/legacyv2.git/index.html",
-    "main.9063f9c4.css.map": "/guillote87/legacyv2.git/static/css/main.9063f9c4.css.map",
-    "main.a301f4b5.js.map": "/guillote87/legacyv2.git/static/js/main.a301f4b5.js.map"
+    "main.css": "/legacyv2/static/css/main.9063f9c4.css",
+    "main.js": "/legacyv2/static/js/main.825daae3.js",
+    "static/media/plataformas.png": "/legacyv2/static/media/plataformas.f22c5f2757b03868283f.png",
+    "static/media/logoblanco.png": "/legacyv2/static/media/logoblanco.f397c937f5993898b3ad.png",
+    "static/media/remote.png": "/legacyv2/static/media/remote.95750d43c6edaddf592d.png",
+    "static/media/Evolution.png": "/legacyv2/static/media/Evolution.dbeb96ab823d26a0ba73.png",
+    "static/media/fiori.png": "/legacyv2/static/media/fiori.f042e3b07157923d4669.png",
+    "static/media/navent.jpg": "/legacyv2/static/media/navent.73f62548bade043193b4.jpg",
+    "static/media/demotores.jpg": "/legacyv2/static/media/demotores.87fe67feb3d5456b5245.jpg",
+    "index.html": "/legacyv2/index.html",
+    "main.9063f9c4.css.map": "/legacyv2/static/css/main.9063f9c4.css.map",
+    "main.825daae3.js.map": "/legacyv2/static/js/main.825daae3.js.map"
   },
   "entrypoints": [
     "static/css/main.9063f9c4.css",
-    "static/js/main.a301f4b5.js"
+    "static/js/main.825daae3.js"
   ]
 }
