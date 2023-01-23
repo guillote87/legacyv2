@@ -1,6 +1,7 @@
 .container{
     width: 100%;
-    display: flex;
+    display: flex;   
+    background:#fff;
     flex-wrap: wrap;
 }
 .title{
@@ -9,32 +10,32 @@
     font-size: small;    
 }
 .card-client{
-    width: 50%;
-    height: 200px;
+    width: 100%;
+    height: 300px;
     display: flex;
     align-items: center;
 }
 .card-client img{
-    max-width: 90%;
-    padding: 10px;
- 
-}
-.card2{
-background-color:#a9b4be
+    max-width: 70%;
+    margin:auto
 }
 
+/*
+* Mobile First
+*/
 
 @media screen and (min-width: 768px){
  
-    .card-client{
-        width: 20%;
-        height: 250px;
-        display: flex;
-        align-items: center;
+    .container{
+        flex-wrap: nowrap;
     }
     .card-client img{
-        max-width: 90%;
+        max-width: 180px;
         padding: 10px;
-     
-    }
+        }
+}
+@media screen and (min-width: 1024px) {
+    .card-client{
+        height: 200px !important;
+           }
 }

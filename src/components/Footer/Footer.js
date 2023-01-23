@@ -24,39 +24,39 @@ export const Footer = ({ toggle }) => {
     return (
         <div className='container-footer'>
             <div className="footer">
-            <div className="footer-menu">
+                <div className="footer-menu">
                     <LinkS to="home" smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
-                        offset={-80}   >Home</LinkS>
-                    <LinkS to="about" smooth={true}
+                        offset={-80}   >Nosotros</LinkS>
+                    <LinkS to="services" smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
-                        offset={-80}  >About</LinkS>
+                        offset={-80}  >Servicios</LinkS>
                     <LinkS to="projects" smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
-                        offset={-80} >Projects</LinkS>
+                        offset={-80} >Proyectos</LinkS>
                     <LinkS to="contact" smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'
-                        offset={-80} >Contact</LinkS>
+                        offset={-80} >Contacto</LinkS>
                 </div>
                 <div className="footer-logo">
                     <LinkS to="home" onClick={toggleHome}>   <img className="footer-logo" src={logo} alt="logo"></img></LinkS>
                 </div>
 
-            <div className='icons-media'>
-                <a href="https://www.linkedin.com/in/guillermoquattrocchi/" target="_blank" rel="noreferrer"> <FaLinkedin /></a>
-                <a href="https://github.com/guillote87" target="_blank" rel="noreferrer"><FaGithub /></a>
-                <a href="https://www.instagram.com/gq_dev/" target="_blank" rel="noreferrer"><FaInstagram /></a>
+                <div className='icons-media'>
+                    <a href="https://www.linkedin.com/in/guillermoquattrocchi/" target="_blank" rel="noreferrer"> <FaLinkedin /></a>
+                    <a href="https://github.com/guillote87" target="_blank" rel="noreferrer"><FaGithub /></a>
+                    <a href="https://www.instagram.com/gq_dev/" target="_blank" rel="noreferrer"><FaInstagram /></a>
+                </div>
             </div>
-            </div>
-        
+
         </div>
     )
 }

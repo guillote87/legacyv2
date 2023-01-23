@@ -1,20 +1,17 @@
 import './App.css';
-import {Navbar} from '../src/components/Navbar/Navbar'
-import {Banner} from '../src/components/Banner/Banner'
-import {Services} from'../src/components/Services/Services'
-import {Clients} from'../src/components/Clients/Clients'
-import ContactSection from '../src/components/ContactSection/ContactForm'
-import {Footer} from '../src/components/Footer/Footer'
+import { BrowserRouter,  Routes, Route } from 'react-router-dom'
+import Home from "./pages"
+
+
 function App() {
   return (
-    <div className="App">
-            <Navbar />
-            <Banner />
-            <Services />
-            <Clients />
-            <ContactSection />
-            <Footer />
-         </div>
+    <>
+    <BrowserRouter>
+      <Routes>
+      <Route path="/" element={<Home/>}/>
+      </Routes>
+    </BrowserRouter>
+  </>
   );
 }
 

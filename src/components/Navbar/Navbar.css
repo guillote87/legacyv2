@@ -1,17 +1,30 @@
-.navbar {
+.nav{
+    background: transparent;
     height: 80px;
+    margin-top: -80px;
+    position: sticky;
+    z-index: 5;
+    top:0px;
+}
+.scroll{
+    background:#427CAC;
+}
+.navbar {
+    margin: auto;
     width: 100%;
     display: flex;
     align-items: center;
-    position: sticky;
-    top:0;
-    padding: 0.5rem 0rem;
-    background-color:#427CAC;
     color: #fff;
 }
 
 .navbar-logo {
+    display: flex;
+    align-items: center;
     width: 150px;
+}
+
+.navbar-logosap {
+    width: 80px;
 }
 
 .navbar-menu {
@@ -29,9 +42,6 @@
     width: 100%;
     height: auto;
     background-color: orange;
-    
-
-
 }
 
 .navbar-menu-open a {
@@ -41,13 +51,13 @@
 
 .mobile-menu {
     display: block;
-    position:absolute;
+    position: absolute;
     top: 0;
     right: 0;
     transform: translate(-100%, 60%);
     font-size: 1.8rem;
     display: block;
-    position:absolute;
+    position: absolute;
     top: 0;
     right: 0;
     transform: translate(-100%, 60%);
@@ -55,30 +65,29 @@
     cursor: pointer;
     color: #fff;
 
-   
+
 }
 
 
 @media screen and (min-width: 768px) {
-    .navbar-menu {
-        text-align: right;
-        color: #fff;
-        display: block;
-        margin-left: auto;
-        width: 60%;
-        position: absolute;
-        right: 10px;
-        top: 25px;
-         }
-
-    .navbar-menu-open {
-        display: none;
+    .navbar {
+        margin: auto;
+        max-width: 1200px;
+        justify-content: space-between;
     }
 
+    .navbar-menu {
+        color: #fff;
+        display: flex;
+        font-size: 15px;
+       
+    }
     .navbar-menu a {
         cursor: pointer;
-        font-size: 20px;
         margin-right: 20px;
+    }
+    .navbar-menu-open {
+        display: none;
     }
 
     .navbar-menu a:hover {
@@ -86,6 +95,6 @@
     }
 
     .mobile-menu {
-            display: none;
+        display: none;
     }
 }

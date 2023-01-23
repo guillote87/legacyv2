@@ -1,8 +1,8 @@
 import React from 'react'
 import img1 from '../../images/sapui5/Evolution.png'
-import img2 from '../../images/sapui5/plataformas.png'
-import img3 from '../../images/sapui5/fiori.png'
-import img4 from '../../images/sapui5/remote.png'
+import img2 from '../../images/sapui5/remote.svg'
+import img3 from '../../images/sapui5/factory.svg'
+import img4 from '../../images/sapui5/plataformas.png'
 import './Card.css'
 
 export const Card = () => {

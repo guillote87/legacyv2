@@ -1,9 +1,9 @@
 import React from 'react'
 import img1 from '../../images/Clientes/Bumeran.png'
 import img2 from '../../images/Clientes/agrofy-logo.png'
-import img3 from '../../images/Clientes/navent.jpg'
+import img3 from '../../images/Clientes/navent.png'
 import img4 from '../../images/Clientes/demotores.jpg'
-import img5 from '../../images/Clientes/SNP.jpg'
+import img5 from '../../images/Clientes/SNP.png'
 import './Clients.css'
 
 export const Clients = () => {
@@ -13,19 +13,19 @@ export const Clients = () => {
                 <h1>Confían en nosotros</h1>
             </div>
             <div className='container'>
-                <div className='card-client'>
+                <div className='card-client card' >
                     <img src={img1}></img>
                 </div>
                 <div className='card-client card2'>
                     <img src={img2}></img>
                 </div>
-                <div className='card-client card3'>
+                <div className='card-client card'>
                     <img src={img3}></img>
                 </div>
                 <div className='card-client card2'>
                     <img src={img4}></img>
                 </div>
-                <div className='card-client'>
+                <div className='card-client card'>
                     <img src={img5}></img>
                 </div>
             </div>
