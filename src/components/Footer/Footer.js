@@ -4,19 +4,7 @@ import logo from '../../images/logoblanco.png'
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import "./Footer.css"
 export const Footer = ({ toggle }) => {
-    const [scrollNav, setScrollNav] = useState(false)
-
-    const changeNav = () => {
-        if (window.scrollY >= 80) {
-            setScrollNav(true)
-        } else {
-            setScrollNav(false)
-        }
-    }
-
-    useEffect(() => {
-        window.addEventListener("scroll", changeNav)
-    }, [])
+  
 
     const toggleHome = () => {
         scroll.scrollToTop()
