@@ -21,7 +21,7 @@ export const Card = () => {
                     </div>
                 </div>
                 <div className='card-image'>
-                    <img src={img1}></img>
+                    <img alt="" src={img1}></img>
                 </div>
             </div>
             <div className='card2'>
@@ -34,7 +34,7 @@ export const Card = () => {
                     </div>
                 </div>
                 <div className='card-image'>
-                    <img src={img2}></img>
+                    <img alt="" src={img2}></img>
                 </div>
             </div>
             <div className='card2'>
@@ -47,7 +47,7 @@ export const Card = () => {
                     </div>
                 </div>
                 <div className='card-image'>
-                    <img src={img3}></img>
+                    <img alt="" src={img3}></img>
                 </div>
             </div>
             <div className='card'>
@@ -60,7 +60,7 @@ export const Card = () => {
                     </div>
                 </div>
                 <div className='card-image'>
-                    <img src={img4}></img>
+                    <img alt="" src={img4}></img>
                 </div>
             </div>
         </>

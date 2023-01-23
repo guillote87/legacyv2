@@ -14,19 +14,19 @@ export const Clients = () => {
             </div>
             <div className='container'>
                 <div className='card-client card' >
-                    <img src={img1}></img>
+                    <img alt="" src={img1}></img>
                 </div>
                 <div className='card-client card2'>
-                    <img src={img2}></img>
+                    <img alt="" src={img2}></img>
                 </div>
                 <div className='card-client card'>
-                    <img src={img3}></img>
+                    <img alt="" src={img3}></img>
                 </div>
                 <div className='card-client card2'>
-                    <img src={img4}></img>
+                    <img alt="" src={img4}></img>
                 </div>
                 <div className='card-client card'>
-                    <img src={img5}></img>
+                    <img alt="" src={img5}></img>
                 </div>
             </div>
         </>

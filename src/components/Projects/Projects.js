@@ -18,7 +18,7 @@ export const Projects = () => {
                             <h2>Dashboard analitico de pedidos</h2>
                         </div>
                         <a   href="https://legacy-dashboard.netlify.app/"  target="_blank" rel="noreferrer"  className='portfolio-img'>
-                            <img src={img1}></img>
+                            <img alt="" src={img1}></img>
                         </a>
                         <div className='portfolio-p'>
                             <p>
@@ -31,7 +31,7 @@ export const Projects = () => {
                             <h2>Listado de Pedidos</h2>
                         </div>
                         <a  href="https://legacy-pedidos-sapui5.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
-                            <img src={img2}></img>
+                            <img alt="" src={img2}></img>
                         </a>
                         <div className='portfolio-p'>
                             <p>
@@ -44,7 +44,7 @@ export const Projects = () => {
                             <h2>Constancia de Inscripción</h2>
                         </div>
                         <a href="https://legacy-constanciacuit.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
-                            <img src={img3}></img>
+                            <img alt="" src={img3}></img>
                         </a>
                         <div className='portfolio-p'>
                             <p>
