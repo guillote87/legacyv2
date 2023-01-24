@@ -10,6 +10,7 @@
    
 }
 .portfolio-wrapper{
+    background-color: #427CAC;
     margin: auto;
     display:flex;
     flex-wrap: wrap;    
@@ -39,16 +40,33 @@ text-decoration:none
     padding: 5px;
 }
 
-@media screen and (min-width: 820px){
+@media screen and (min-width: 768px){
+    .portfolio-card{
+        width: 30%; 
+        height: 350px;
+        margin:auto;
+        display: block; 
+        border-radius: 15px;   
+      }
+      .portfolio-title{
+        font-size: 15px;
+      }
+      .portfolio-p{
+        font-size: 14px;
+        
+      }
+
+}
+@media screen and (min-width: 992px){
 
   .portfolio-wrapper{
-    background-color: #427CAC;
+  
     display: flex;
   } 
     .portfolio-card{
       width: 30%; 
       height: 380px;
-    margin:auto;
+      margin:auto;
       display: block; 
       border-radius: 15px;   
     }
