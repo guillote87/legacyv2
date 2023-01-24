@@ -39,9 +39,9 @@ export const Footer = ({ toggle }) => {
                 </div>
 
                 <div className='icons-media'>
-                    <a href="https://www.linkedin.com/in/guillermoquattrocchi/" target="_blank" rel="noreferrer"> <FaLinkedin /></a>
-                    <a href="https://github.com/guillote87" target="_blank" rel="noreferrer"><FaGithub /></a>
-                    <a href="https://www.instagram.com/gq_dev/" target="_blank" rel="noreferrer"><FaInstagram /></a>
+                    <a href="https://www.legacyitc.com/" target="_blank" rel="noreferrer"> <FaLinkedin /></a>
+                    <a href="https://www.legacyitc.com/" target="_blank" rel="noreferrer"><FaGithub /></a>
+                    <a href="https://www.legacyitc.com/" target="_blank" rel="noreferrer"><FaInstagram /></a>
                 </div>
             </div>
 
