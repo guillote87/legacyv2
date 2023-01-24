@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import { animateScroll as scroll, Link as LinkS } from 'react-scroll'
 import logo from '../../images/logoblanco.png'
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
