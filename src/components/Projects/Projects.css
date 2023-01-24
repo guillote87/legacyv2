@@ -42,12 +42,15 @@ text-decoration:none
 @media screen and (min-width: 820px){
 
   .portfolio-wrapper{
+    background-color: #427CAC;
     display: flex;
   } 
     .portfolio-card{
-      width: 33.3%; 
+      width: 30%; 
       height: 380px;
-      display: block;    
+    margin:auto;
+      display: block; 
+      border-radius: 15px;   
     }
     .portfolio-img{
         width: 100%
