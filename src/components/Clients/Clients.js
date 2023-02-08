@@ -13,8 +13,9 @@ export const Clients = () => {
                 <h1>Confían en nosotros</h1>
             </div>
             <div className='container'>
+                <div className='card-wrapper'>
                 <div className='card-client card' >
-                    <img alt="" src={img1}></img>
+                    <img id="bumeran-img"alt="" src={img1}></img>
                 </div>
                 <div className='card-client card2'>
                     <img alt="" src={img2}></img>
@@ -29,6 +30,7 @@ export const Clients = () => {
                     <img alt="" src={img5}></img>
                 </div>
             </div>
+        </div>
         </>
     )
 }
