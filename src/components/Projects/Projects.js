@@ -2,6 +2,7 @@ import React from 'react'
 import img1 from "../../images/Portfolio/dashboard.png"
 import img2 from "../../images/Portfolio/pedidos.png"
 import img3 from "../../images/Portfolio/constancia.png"
+import img4 from "../../images/Portfolio/MediosPagos.png"
 import "./Projects.css"
 
 export const Projects = () => {
@@ -49,6 +50,19 @@ export const Projects = () => {
                         <div className='portfolio-p'>
                             <p>
                                 Aplicacion de consulta de Contancia de Inscripcion a partir de CUIT, realizada en SAPUI5
+                            </p>
+                        </div>
+                    </div>
+                    <div  className='portfolio-card card2'>
+                        <div className='portfolio-title'>
+                            <h2>Medios de Pago</h2>
+                        </div>
+                        <a href="https://mediopagosapui5.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
+                            <img alt="" src={img4}></img>
+                        </a>
+                        <div className='portfolio-p'>
+                            <p>
+                                Aplicacion de consulta estados de pagos, con estados identificados segun severity, realizada en SAPUI5
                             </p>
                         </div>
                     </div>
