@@ -83,8 +83,10 @@
        
     }
     .navbar-menu a {
+        color: #fff;
         cursor: pointer;
         margin-right: 20px;
+        text-decoration: none;
     }
     .navbar-menu-open {
         display: none;

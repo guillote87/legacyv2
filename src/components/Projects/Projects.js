@@ -9,16 +9,18 @@ export const Projects = () => {
     return (
         <>
             <div>
-            <div id="projects"className='title'>
-                    <h2>Proyectos</h2>
+                <div className='bannerPortfolio'>
+
+                </div>
+                <div id="projects" className='title'>
+                    <h2>Portfolio</h2>
                 </div>
                 <div className='portfolio-wrapper'>
-               
                     <div className='portfolio-card card'>
                         <div className='portfolio-title'>
                             <h2>Dashboard analitico de pedidos</h2>
                         </div>
-                        <a   href="https://legacy-dashboard.netlify.app/"  target="_blank" rel="noreferrer"  className='portfolio-img'>
+                        <a href="https://legacy-dashboard.netlify.app/" target="_blank" rel="noreferrer" className='portfolio-img'>
                             <img alt="" src={img1}></img>
                         </a>
                         <div className='portfolio-p'>
@@ -31,20 +33,20 @@ export const Projects = () => {
                         <div className='portfolio-title'>
                             <h2>Listado de Pedidos</h2>
                         </div>
-                        <a  href="https://legacy-pedidos-sapui5.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
+                        <a href="https://legacy-pedidos-sapui5.netlify.app/" target="_blank" rel="noreferrer" no className='portfolio-img'>
                             <img alt="" src={img2}></img>
                         </a>
                         <div className='portfolio-p'>
                             <p>
-                               Aplicación de listado de pedidos, con filtros de Organización de venta, estado del pedido y rango de fecha, realizada en SAPUI5 conectada a servicio OData
+                                Aplicación de listado de pedidos, con filtros de Organización de venta, estado del pedido y rango de fecha, realizada en SAPUI5 conectada a servicio OData
                             </p>
                         </div>
                     </div>
-                    <div  className='portfolio-card card'>
+                    <div className='portfolio-card card'>
                         <div className='portfolio-title'>
                             <h2>Constancia de Inscripción</h2>
                         </div>
-                        <a href="https://legacy-constanciacuit.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
+                        <a href="https://legacy-constanciacuit.netlify.app/" target="_blank" rel="noreferrer" no className='portfolio-img'>
                             <img alt="" src={img3}></img>
                         </a>
                         <div className='portfolio-p'>
@@ -53,11 +55,11 @@ export const Projects = () => {
                             </p>
                         </div>
                     </div>
-                    <div  className='portfolio-card card2'>
+                    <div className='portfolio-card card2'>
                         <div className='portfolio-title'>
                             <h2>Medios de Pago</h2>
                         </div>
-                        <a href="https://mediopagosapui5.netlify.app/"  target="_blank" rel="noreferrer" no className='portfolio-img'>
+                        <a href="https://mediopagosapui5.netlify.app/" target="_blank" rel="noreferrer" no className='portfolio-img'>
                             <img alt="" src={img4}></img>
                         </a>
                         <div className='portfolio-p'>

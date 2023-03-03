@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import {Link} from 'react-router-dom'
 import "./Navbar.css"
 import { animateScroll as scroll, Link as LinkS } from 'react-scroll'
 import logo from '../../images/logoblanco.png'
@@ -28,8 +29,8 @@ export const Navbar = ({ toggle }) => {
     <div   className={scrollNav ? "nav scroll" : "nav"}>
       <div className="navbar">
         <div className="navbar-logo">
-          <LinkS to="home" onClick={toggleHome}>   <img className="navbar-logo" src={logo} alt="logo"></img></LinkS>
-          <LinkS to="home" onClick={toggleHome}>   <img className="navbar-logosap" src={logoSap} alt="logo"></img></LinkS>
+          <Link to="/">   <img className="navbar-logo" src={logo} alt="logo"></img> </Link>
+          <Link to="/">   <img className="navbar-logosap" src={logoSap} alt="logo"></img> </Link>
         </div>
         <div className="navbar-menu">
           <LinkS to="home" smooth={true}
@@ -42,12 +43,8 @@ export const Navbar = ({ toggle }) => {
             spy={true}
             exact='true'
             offset={-80}  >Servicios</LinkS>
-          <LinkS to="projects" smooth={true}
-            duration={500}
-            spy={true}
-            exact='true'
-            offset={-80} >Proyectos</LinkS>
-          <LinkS to="contact" smooth={true}
+          <Link to="portfolio">Proyectos</Link>
+          <LinkS to="contacto" smooth={true}
             duration={500}
             spy={true}
             exact='true'
