@@ -9,7 +9,7 @@ export const Projects = () => {
     return (
         <>
             <div>
-                <div className='bannersPortfolio'>
+                <div className='bannerPortfolio'>
 
                 </div>
                 <div id="projects" className='title'>

@@ -8,6 +8,7 @@ import { FaBars } from "react-icons/fa";
 
 
 export const Navbar = ({ toggle }) => {
+  
   const [scrollNav, setScrollNav] = useState(false)
 
   const changeNav = () => {
@@ -22,9 +23,6 @@ export const Navbar = ({ toggle }) => {
     window.addEventListener("scroll", changeNav)
   }, [])
 
-  const toggleHome = () => {
-    scroll.scrollToTop()
-  }
   return (
     <div   className={scrollNav ? "nav scroll" : "nav"}>
       <div className="navbar">
