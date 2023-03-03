@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import {Link} from 'react-router-dom'
 import "./Navbar.css"
-import { animateScroll as scroll, Link as LinkS } from 'react-scroll'
+import { Link as LinkS } from 'react-scroll'
 import logo from '../../images/logoblanco.png'
 import logoSap from '../../images/sap-logo-svg.svg'
 import { FaBars } from "react-icons/fa";
@@ -22,6 +22,7 @@ export const Navbar = ({ toggle }) => {
   useEffect(() => {
     window.addEventListener("scroll", changeNav)
   }, [])
+
 
   return (
     <div   className={scrollNav ? "nav scroll" : "nav"}>
