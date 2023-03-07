@@ -38,7 +38,7 @@
 
 .formulario input,
 .formulario textarea {
-	width: 100%;
+	width: 80%;
 	border-radius: 5px;
 	border: 2px solid #e2e2e2;
 	font-size: 18px;
@@ -94,9 +94,18 @@ button:hover{
    .fomulario h2{
 		font-size: 32px;
   }
+  .formulario input,
+  .formulario textarea {
+	width: 80%;
+}
   }
 
   @media screen and (min-width: 768px){
     .contenedor{
 		padding: 15px 0;
-  }}
+  }
+  .formulario input,
+  .formulario textarea {
+	width: 100%;
+}
+  }
