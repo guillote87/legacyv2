@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06799f1a.css",
-    "main.js": "/static/js/main.a4ce981b.js",
+    "main.css": "/static/css/main.4c62bb57.css",
+    "main.js": "/static/js/main.c1ed7174.js",
     "static/media/banner.jpg": "/static/media/banner.2775639bc857c4b711a5.jpg",
     "static/media/MediosPagos.png": "/static/media/MediosPagos.974b178fe4add897cc2c.png",
     "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
@@ -18,11 +18,11 @@
     "static/media/factory.svg": "/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
-    "main.06799f1a.css.map": "/static/css/main.06799f1a.css.map",
-    "main.a4ce981b.js.map": "/static/js/main.a4ce981b.js.map"
+    "main.4c62bb57.css.map": "/static/css/main.4c62bb57.css.map",
+    "main.c1ed7174.js.map": "/static/js/main.c1ed7174.js.map"
   },
   "entrypoints": [
-    "static/css/main.06799f1a.css",
-    "static/js/main.a4ce981b.js"
+    "static/css/main.4c62bb57.css",
+    "static/js/main.c1ed7174.js"
   ]
 }
