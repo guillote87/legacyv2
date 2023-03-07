@@ -13,7 +13,7 @@ export const Projects = () => {
 
                 </div>
                 <div id="projects" className='title'>
-                    <h2>Portfolio</h2>
+                    <h2>Proyectos</h2>
                 </div>
                 <div className='portfolio-wrapper'>
                     <div className='portfolio-card card'>
