@@ -1,6 +1,7 @@
 import React from 'react'
 import { animateScroll as scroll, Link as LinkS } from 'react-scroll'
 import logo from '../../images/logoblanco.png'
+import {Link} from 'react-router-dom'
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import "./Footer.css"
 export const Footer = ({ toggle }) => {
@@ -23,12 +24,8 @@ export const Footer = ({ toggle }) => {
                         spy={true}
                         exact='true'
                         offset={-80}  >Servicios</LinkS>
-                    <LinkS to="projects" smooth={true}
-                        duration={500}
-                        spy={true}
-                        exact='true'
-                        offset={-80} >Proyectos</LinkS>
-                    <LinkS to="contact" smooth={true}
+                   <Link to="portfolio">Proyectos</Link>
+                    <LinkS to="contacto" smooth={true}
                         duration={500}
                         spy={true}
                         exact='true'

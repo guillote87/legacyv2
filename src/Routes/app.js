@@ -7,6 +7,7 @@ import NotFound from "../pages/NotFound";
 import Portfolio from "../pages/Portfolio";
 import { Navbar } from "../components/Navbar/Navbar";
 import Sidebar from "../components/Sidebar/Sidebar";
+import { Footer } from "../components/Footer/Footer";
 
 
 
@@ -25,9 +26,11 @@ export default function App() {
             <Navbar toggle={toggle} />
             <Routes>
                 <Route index element={<Home />} />
-                <Route path="portfolio" element={<Portfolio />} />
+                <Route path="/portfolio" element={<Portfolio />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
+            <Footer/>
+            
         </BrowserRouter>
 
     );

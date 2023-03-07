@@ -35,4 +35,11 @@
     color: #fff;
 }
 
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+    .footer-menu a {
+        color: #fff;
+        cursor: pointer;
+        margin-right: 20px;
+        text-decoration: none;
+    }
+}
