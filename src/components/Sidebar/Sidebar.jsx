@@ -1,5 +1,4 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
 import { CloseIcon, Icon, SidebarContainer, SidebarLink, SidebarMenu,SidebarRoute, SidebarWrapper,} from './SidebarElements'
 
 const Sidebar = ({isOpen, toggle}) => {
