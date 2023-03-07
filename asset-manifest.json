@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "/legacyv2/static/css/main.9063f9c4.css",
-    "main.js": "/legacyv2/static/js/main.825daae3.js",
-    "static/media/plataformas.png": "/legacyv2/static/media/plataformas.f22c5f2757b03868283f.png",
-    "static/media/logoblanco.png": "/legacyv2/static/media/logoblanco.f397c937f5993898b3ad.png",
-    "static/media/remote.png": "/legacyv2/static/media/remote.95750d43c6edaddf592d.png",
-    "static/media/Evolution.png": "/legacyv2/static/media/Evolution.dbeb96ab823d26a0ba73.png",
-    "static/media/fiori.png": "/legacyv2/static/media/fiori.f042e3b07157923d4669.png",
-    "static/media/navent.jpg": "/legacyv2/static/media/navent.73f62548bade043193b4.jpg",
-    "static/media/demotores.jpg": "/legacyv2/static/media/demotores.87fe67feb3d5456b5245.jpg",
-    "index.html": "/legacyv2/index.html",
-    "main.9063f9c4.css.map": "/legacyv2/static/css/main.9063f9c4.css.map",
-    "main.825daae3.js.map": "/legacyv2/static/js/main.825daae3.js.map"
+    "main.css": "/www.legacyitc.com/static/css/main.2c119c8e.css",
+    "main.js": "/www.legacyitc.com/static/js/main.a6dbe2d1.js",
+    "static/media/banner.jpg": "/www.legacyitc.com/static/media/banner.2775639bc857c4b711a5.jpg",
+    "static/media/MediosPagos.png": "/www.legacyitc.com/static/media/MediosPagos.974b178fe4add897cc2c.png",
+    "static/media/dashboard.png": "/www.legacyitc.com/static/media/dashboard.861b201a1a2e13361211.png",
+    "static/media/constancia.png": "/www.legacyitc.com/static/media/constancia.ef47d377403b769d42a6.png",
+    "static/media/pedidos.png": "/www.legacyitc.com/static/media/pedidos.b1d92c80df3e635e2df8.png",
+    "static/media/plataformas.png": "/www.legacyitc.com/static/media/plataformas.f22c5f2757b03868283f.png",
+    "static/media/SNP.png": "/www.legacyitc.com/static/media/SNP.2831e04a21133286ec28.png",
+    "static/media/logoblanco.png": "/www.legacyitc.com/static/media/logoblanco.f397c937f5993898b3ad.png",
+    "static/media/Evolution.png": "/www.legacyitc.com/static/media/Evolution.dbeb96ab823d26a0ba73.png",
+    "static/media/navent.png": "/www.legacyitc.com/static/media/navent.8dadda9f47a10e786db6.png",
+    "static/media/remote.svg": "/www.legacyitc.com/static/media/remote.063c25b35cf675f1ac941f15b28bbdb6.svg",
+    "static/media/demotores.jpg": "/www.legacyitc.com/static/media/demotores.87fe67feb3d5456b5245.jpg",
+    "static/media/Bumeran.png": "/www.legacyitc.com/static/media/Bumeran.ab1783188cf3c699146f.png",
+    "static/media/factory.svg": "/www.legacyitc.com/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
+    "static/media/sap-logo-svg.svg": "/www.legacyitc.com/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
+    "index.html": "/www.legacyitc.com/index.html",
+    "main.2c119c8e.css.map": "/www.legacyitc.com/static/css/main.2c119c8e.css.map",
+    "main.a6dbe2d1.js.map": "/www.legacyitc.com/static/js/main.a6dbe2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9063f9c4.css",
-    "static/js/main.825daae3.js"
+    "static/css/main.2c119c8e.css",
+    "static/js/main.a6dbe2d1.js"
   ]
 }
