@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/www.legacyitc.com/static/css/main.2c119c8e.css",
-    "main.js": "/www.legacyitc.com/static/js/main.a6dbe2d1.js",
-    "static/media/banner.jpg": "/www.legacyitc.com/static/media/banner.2775639bc857c4b711a5.jpg",
-    "static/media/MediosPagos.png": "/www.legacyitc.com/static/media/MediosPagos.974b178fe4add897cc2c.png",
-    "static/media/dashboard.png": "/www.legacyitc.com/static/media/dashboard.861b201a1a2e13361211.png",
-    "static/media/constancia.png": "/www.legacyitc.com/static/media/constancia.ef47d377403b769d42a6.png",
-    "static/media/pedidos.png": "/www.legacyitc.com/static/media/pedidos.b1d92c80df3e635e2df8.png",
-    "static/media/plataformas.png": "/www.legacyitc.com/static/media/plataformas.f22c5f2757b03868283f.png",
-    "static/media/SNP.png": "/www.legacyitc.com/static/media/SNP.2831e04a21133286ec28.png",
-    "static/media/logoblanco.png": "/www.legacyitc.com/static/media/logoblanco.f397c937f5993898b3ad.png",
-    "static/media/Evolution.png": "/www.legacyitc.com/static/media/Evolution.dbeb96ab823d26a0ba73.png",
-    "static/media/navent.png": "/www.legacyitc.com/static/media/navent.8dadda9f47a10e786db6.png",
-    "static/media/remote.svg": "/www.legacyitc.com/static/media/remote.063c25b35cf675f1ac941f15b28bbdb6.svg",
-    "static/media/demotores.jpg": "/www.legacyitc.com/static/media/demotores.87fe67feb3d5456b5245.jpg",
-    "static/media/Bumeran.png": "/www.legacyitc.com/static/media/Bumeran.ab1783188cf3c699146f.png",
-    "static/media/factory.svg": "/www.legacyitc.com/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
-    "static/media/sap-logo-svg.svg": "/www.legacyitc.com/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
-    "index.html": "/www.legacyitc.com/index.html",
-    "main.2c119c8e.css.map": "/www.legacyitc.com/static/css/main.2c119c8e.css.map",
-    "main.a6dbe2d1.js.map": "/www.legacyitc.com/static/js/main.a6dbe2d1.js.map"
+    "main.css": "/static/css/main.06799f1a.css",
+    "main.js": "/static/js/main.a4ce981b.js",
+    "static/media/banner.jpg": "/static/media/banner.2775639bc857c4b711a5.jpg",
+    "static/media/MediosPagos.png": "/static/media/MediosPagos.974b178fe4add897cc2c.png",
+    "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
+    "static/media/constancia.png": "/static/media/constancia.ef47d377403b769d42a6.png",
+    "static/media/pedidos.png": "/static/media/pedidos.b1d92c80df3e635e2df8.png",
+    "static/media/plataformas.png": "/static/media/plataformas.f22c5f2757b03868283f.png",
+    "static/media/SNP.png": "/static/media/SNP.2831e04a21133286ec28.png",
+    "static/media/logoblanco.png": "/static/media/logoblanco.f397c937f5993898b3ad.png",
+    "static/media/Evolution.png": "/static/media/Evolution.dbeb96ab823d26a0ba73.png",
+    "static/media/navent.png": "/static/media/navent.8dadda9f47a10e786db6.png",
+    "static/media/remote.svg": "/static/media/remote.063c25b35cf675f1ac941f15b28bbdb6.svg",
+    "static/media/demotores.jpg": "/static/media/demotores.87fe67feb3d5456b5245.jpg",
+    "static/media/Bumeran.png": "/static/media/Bumeran.ab1783188cf3c699146f.png",
+    "static/media/factory.svg": "/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
+    "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
+    "index.html": "/index.html",
+    "main.06799f1a.css.map": "/static/css/main.06799f1a.css.map",
+    "main.a4ce981b.js.map": "/static/js/main.a4ce981b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c119c8e.css",
-    "static/js/main.a6dbe2d1.js"
+    "static/css/main.06799f1a.css",
+    "static/js/main.a4ce981b.js"
   ]
 }
