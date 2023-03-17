@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e84d283.css",
-    "main.js": "/static/js/main.5fe39dca.js",
+    "main.css": "/static/css/main.22a87bf7.css",
+    "main.js": "/static/js/main.bf30bc8f.js",
     "static/media/banner.jpg": "/static/media/banner.2775639bc857c4b711a5.jpg",
     "static/media/MediosPagos.png": "/static/media/MediosPagos.974b178fe4add897cc2c.png",
     "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
@@ -13,15 +13,16 @@
     "static/media/Evolution.png": "/static/media/Evolution.dbeb96ab823d26a0ba73.png",
     "static/media/navent.png": "/static/media/navent.8dadda9f47a10e786db6.png",
     "static/media/remote.svg": "/static/media/remote.063c25b35cf675f1ac941f15b28bbdb6.svg",
+    "static/media/teseo.png": "/static/media/teseo.612a7ca32a7a6cd3f8f0.png",
     "static/media/demotores.jpg": "/static/media/demotores.87fe67feb3d5456b5245.jpg",
     "static/media/factory.svg": "/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
-    "main.0e84d283.css.map": "/static/css/main.0e84d283.css.map",
-    "main.5fe39dca.js.map": "/static/js/main.5fe39dca.js.map"
+    "main.22a87bf7.css.map": "/static/css/main.22a87bf7.css.map",
+    "main.bf30bc8f.js.map": "/static/js/main.bf30bc8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e84d283.css",
-    "static/js/main.5fe39dca.js"
+    "static/css/main.22a87bf7.css",
+    "static/js/main.bf30bc8f.js"
   ]
 }
