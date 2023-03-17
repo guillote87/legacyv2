@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.eac14299.css",
+    "main.css": "/static/css/main.0e84d283.css",
     "main.js": "/static/js/main.5fe39dca.js",
     "static/media/banner.jpg": "/static/media/banner.2775639bc857c4b711a5.jpg",
     "static/media/MediosPagos.png": "/static/media/MediosPagos.974b178fe4add897cc2c.png",
@@ -17,11 +17,11 @@
     "static/media/factory.svg": "/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
-    "main.eac14299.css.map": "/static/css/main.eac14299.css.map",
+    "main.0e84d283.css.map": "/static/css/main.0e84d283.css.map",
     "main.5fe39dca.js.map": "/static/js/main.5fe39dca.js.map"
   },
   "entrypoints": [
-    "static/css/main.eac14299.css",
+    "static/css/main.0e84d283.css",
     "static/js/main.5fe39dca.js"
   ]
 }
