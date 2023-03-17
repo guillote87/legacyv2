@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c62bb57.css",
-    "main.js": "/static/js/main.c1ed7174.js",
+    "main.css": "/static/css/main.49e66b65.css",
+    "main.js": "/static/js/main.5fe39dca.js",
     "static/media/banner.jpg": "/static/media/banner.2775639bc857c4b711a5.jpg",
     "static/media/MediosPagos.png": "/static/media/MediosPagos.974b178fe4add897cc2c.png",
     "static/media/dashboard.png": "/static/media/dashboard.861b201a1a2e13361211.png",
@@ -14,15 +14,14 @@
     "static/media/navent.png": "/static/media/navent.8dadda9f47a10e786db6.png",
     "static/media/remote.svg": "/static/media/remote.063c25b35cf675f1ac941f15b28bbdb6.svg",
     "static/media/demotores.jpg": "/static/media/demotores.87fe67feb3d5456b5245.jpg",
-    "static/media/Bumeran.png": "/static/media/Bumeran.ab1783188cf3c699146f.png",
     "static/media/factory.svg": "/static/media/factory.4a7ffeb9dbf1af1fdefa66a4f626821a.svg",
     "static/media/sap-logo-svg.svg": "/static/media/sap-logo-svg.447c7ca3440c1638a9c071c2bb647e24.svg",
     "index.html": "/index.html",
-    "main.4c62bb57.css.map": "/static/css/main.4c62bb57.css.map",
-    "main.c1ed7174.js.map": "/static/js/main.c1ed7174.js.map"
+    "main.49e66b65.css.map": "/static/css/main.49e66b65.css.map",
+    "main.5fe39dca.js.map": "/static/js/main.5fe39dca.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c62bb57.css",
-    "static/js/main.c1ed7174.js"
+    "static/css/main.49e66b65.css",
+    "static/js/main.5fe39dca.js"
   ]
 }
