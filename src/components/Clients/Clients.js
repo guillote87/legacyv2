@@ -1,9 +1,10 @@
 import React from 'react'
-import img1 from '../../images/Clientes/Bumeran.png'
+import img1 from '../../images/Clientes/logo-jobint.png'
 import img2 from '../../images/Clientes/agrofy-logo.png'
 import img3 from '../../images/Clientes/navent.png'
 import img4 from '../../images/Clientes/demotores.jpg'
 import img5 from '../../images/Clientes/SNP.png'
+import img6 from '../../images/Clientes/teseo.png'
 import './Clients.css'
 
 export const Clients = () => {
@@ -15,7 +16,7 @@ export const Clients = () => {
             <div className='container'>
                 <div className='card-wrapper'>
                 <div className='card-client card' >
-                    <img id="bumeran-img"alt="" src={img1}></img>
+                    <img alt="" src={img1}></img>
                 </div>
                 <div className='card-client card2'>
                     <img alt="" src={img2}></img>
@@ -28,6 +29,9 @@ export const Clients = () => {
                 </div>
                 <div className='card-client card'>
                     <img alt="" src={img5}></img>
+                </div>
+                <div className='card-client card2'>
+                    <img alt="" src={img6}></img>
                 </div>
             </div>
         </div>

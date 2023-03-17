@@ -17,7 +17,6 @@ export const Card = () => {
                         <p>SAP R3</p>
                         <p>SAP S/4 HANA</p>
                         <p>SAP FIORI</p>
-                        <p>SAP SAPUI5</p>
                     </div>
                 </div>
                 <div className='card-image'>
@@ -43,7 +42,7 @@ export const Card = () => {
                         <h2>Software Factory</h2>
                     </div>
                     <div className='card-service-p'>
-                        <p>Nos avalan mas de diez años de experiencia en el diseño y desarrollo de aplicaciones, Software Factory, soporte e implementaciónes aplicadas a la plataforma SAP.</p>
+                        <p>Nos avalan mas de quince años de experiencia en el diseño y desarrollo de aplicaciones, Software Factory, soporte e implementaciónes aplicadas a la plataforma SAP.</p>
                     </div>
                 </div>
                 <div className='card-image'>
